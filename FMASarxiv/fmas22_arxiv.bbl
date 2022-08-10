@@ -1,0 +1,721 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AD94}{article}{}
+      \name{author}{2}{}{%
+        {{hash=29db5b94c11f4e678669998ac7867043}{%
+           family={Alur},
+           familyi={A\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d6ad2bcba3ffd5a473e57dd97226e3e6}{%
+           family={Dill},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Essex, UK}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science Publishers Ltd.}%
+      }
+      \strng{namehash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \strng{fullhash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \strng{bibnamehash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \strng{authorbibnamehash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \strng{authornamehash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \strng{authorfullhash}{a923e0ea73693ac998dd1b7ad766fc8d}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-3975}
+      \field{journaltitle}{Theoretical Computer Science}
+      \field{number}{2}
+      \field{title}{A Theory of Timed Automata}
+      \field{volume}{126}
+      \field{year}{1994}
+      \field{pages}{183\bibrangedash 235}
+      \range{pages}{53}
+      \verb{doi}
+      \verb 10.1016/0304-3975(94)90010-8
+      \endverb
+    \endentry
+    \entry{jsan10030041}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a008c8fffc49b4ad83c51ad2166d7782}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Gleifer\bibnamedelima Vaz},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=f91691c91dc8d5b4b716de19ed28d420}{%
+           family={Dennis},
+           familyi={D\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a32032773e127643a14d731385f97664}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e964ba62da91a43ce91fac94aa7a832}
+      \strng{fullhash}{9e964ba62da91a43ce91fac94aa7a832}
+      \strng{bibnamehash}{9e964ba62da91a43ce91fac94aa7a832}
+      \strng{authorbibnamehash}{9e964ba62da91a43ce91fac94aa7a832}
+      \strng{authornamehash}{9e964ba62da91a43ce91fac94aa7a832}
+      \strng{authorfullhash}{9e964ba62da91a43ce91fac94aa7a832}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Usually, the design of an Autonomous Vehicle (AV) does not take into account traffic rules and so the adoption of these rules can bring some challenges, e.g., how to come up with a Digital Highway Code which captures the proper behaviour of an AV against the traffic rules and at the same time minimises changes to the existing Highway Code? Here, we formally model and implement three Road Junction rules (from the UK Highway Code). We use timed automata to model the system and the MCAPL (Model Checking Agent Programming Language) framework to implement an agent and its environment. We also assess the behaviour of our agent according to the Road Junction rules using a double-level Model Checking technique, i.e., UPPAAL at the design level and AJPF (Agent Java PathFinder) at the development level. We have formally verified 30 properties (18 with UPPAAL and 12 with AJPF), where these properties describe the agent’s behaviour against the three Road Junction rules using a simulated traffic scenario, including artefacts like traffic signs and road users. In addition, our approach aims to extract the best from the double-level verification, i.e., using time constraints in UPPAAL timed automata to determine thresholds for the AVs actions and tracing the agent’s behaviour by using MCAPL, in a way that one can tell when and how a given Road Junction rule was selected by the agent. This work provides a proof-of-concept for the formal verification of AV behaviour with respect to traffic rules.}
+      \field{issn}{2224-2708}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{number}{3}
+      \field{title}{A Double-Level Model Checking Approach for an Agent-Based Autonomous Vehicle and Road Junction Regulations}
+      \field{volume}{10}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/jsan10030041
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2224-2708/10/3/41
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2224-2708/10/3/41
+      \endverb
+    \endentry
+    \entry{AS22}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=a008c8fffc49b4ad83c51ad2166d7782}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Gleifer\bibnamedelima Vaz},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ae8119375962803af59a8a411eedd8f6}{%
+           family={Schwammberger},
+           familyi={S\bibinitperiod},
+           given={Maike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{06bb8699cd7fefe6ef92181035c56a58}
+      \strng{fullhash}{06bb8699cd7fefe6ef92181035c56a58}
+      \strng{bibnamehash}{06bb8699cd7fefe6ef92181035c56a58}
+      \strng{authorbibnamehash}{06bb8699cd7fefe6ef92181035c56a58}
+      \strng{authornamehash}{06bb8699cd7fefe6ef92181035c56a58}
+      \strng{authorfullhash}{06bb8699cd7fefe6ef92181035c56a58}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{submitted to FMAS'22}
+      \field{title}{Towards a Digital Highway Code using Formal Modelling and Verification of Timed Automata}
+    \endentry
+    \entry{BS19}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=86de6ca813df7fea6664c249b7acc6bc}{%
+           family={Bischopink},
+           familyi={B\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ae8119375962803af59a8a411eedd8f6}{%
+           family={Schwammberger},
+           familyi={S\bibinitperiod},
+           given={Maike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \strng{fullhash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \strng{bibnamehash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \strng{authorbibnamehash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \strng{authornamehash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \strng{authorfullhash}{b38b6e94fee39ae95b2ded0de2fb135f}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Formal Methods. {FM} 2019 International Workshops - Porto, Portugal, October 7-11, 2019, Revised Selected Papers, Part {I}}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Verification of Fair Controllers for Urban Traffic Manoeuvres at Intersections}
+      \field{volume}{12232}
+      \field{year}{2019}
+      \field{pages}{249\bibrangedash 264}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-030-54994-7\_18
+      \endverb
+    \endentry
+    \entry{Bonnefon1573}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fa50df4756b09729053ab19adcec74e9}{%
+           family={Bonnefon},
+           familyi={B\bibinitperiod},
+           given={Jean-Fran{ç}ois},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=e3737367988c2ef6ed1db5a90d705690}{%
+           family={Shariff},
+           familyi={S\bibinitperiod},
+           given={Azim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5ddd95e61c9884d4bc3c430e82855850}{%
+           family={Rahwan},
+           familyi={R\bibinitperiod},
+           given={Iyad},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \strng{fullhash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \strng{bibnamehash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \strng{authorbibnamehash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \strng{authornamehash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \strng{authorfullhash}{7ee62977aea3c4e5a9ca2f8bdf78b7d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{number}{6293}
+      \field{title}{The social dilemma of autonomous vehicles}
+      \field{volume}{352}
+      \field{year}{2016}
+      \field{pages}{1573\bibrangedash 1576}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.aaf2654
+      \endverb
+      \verb{eprint}
+      \verb http://science.sciencemag.org/content/352/6293/1573.full.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://science.sciencemag.org/content/352/6293/1573
+      \endverb
+      \verb{url}
+      \verb http://science.sciencemag.org/content/352/6293/1573
+      \endverb
+    \endentry
+    \entry{determinism}{article}{}
+      \name{author}{6}{}{%
+        {{hash=e464ccfad93f539e8d83670bfd2ccdaa}{%
+           family={Chance},
+           familyi={C\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5198bb7730a55616e36e3b65e728d3bc}{%
+           family={Ghobrial},
+           familyi={G\bibinitperiod},
+           given={Abanoub},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2fd5a336bff095af2559477dc75667e7}{%
+           family={McAreavey},
+           familyi={M\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ecc97c34decec059edddd7ec7d5b74a1}{%
+           family={Lemaignan},
+           familyi={L\bibinitperiod},
+           given={Severin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=efb7b9c6d783bb5c01d7d5b162640cd0}{%
+           family={Pipe},
+           familyi={P\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7c6ad14b250cf6c8ba8e92e4ad94f196}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \strng{fullhash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \strng{bibnamehash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \strng{authorbibnamehash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \strng{authornamehash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \strng{authorfullhash}{b1947dbc2ca34e2870d2cb6e539a8fc3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{title}{On Determinism of Game Engines Used for Simulation-Based Autonomous Vehicle Verification}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TITS.2022.3177887
+      \endverb
+    \endentry
+    \entry{7588753}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=046842e5933d7131df18c28d8bce94ff}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8b59cf40a617ca141c81a94c9979b753}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=788d908e5e15ff8c9192218cef1419ba}{%
+           family={Kirkwood},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d37dfe88d4cbb066d35c235b5737c914}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hoang\bibnamedelima Nga},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f1747b53d07a8d15fb988a6e981d0421}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={Gemma\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=700a78e3e2d2a38cdb408328d73be484}{%
+           family={Roggenbach},
+           familyi={R\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e62386590d34f4e7e868e2c026b0f50}
+      \strng{fullhash}{7e62386590d34f4e7e868e2c026b0f50}
+      \strng{bibnamehash}{7e62386590d34f4e7e868e2c026b0f50}
+      \strng{authorbibnamehash}{7e62386590d34f4e7e868e2c026b0f50}
+      \strng{authornamehash}{7e62386590d34f4e7e868e2c026b0f50}
+      \strng{authorfullhash}{7e62386590d34f4e7e868e2c026b0f50}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE International Conference on Intelligent Rail Transportation (ICIRT)}
+      \field{title}{Towards integrated simulation and formal verification of rail yard designs - an experience report based on the UK East Coast Main Line}
+      \field{year}{2016}
+      \field{pages}{347\bibrangedash 355}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/ICIRT.2016.7588753
+      \endverb
+    \endentry
+    \entry{departmentfortransportusing2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2c2b0e48dc97b685b8d4ccb853b67efb}{%
+           family={{Department for Transport}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \strng{fullhash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \strng{bibnamehash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \strng{authorbibnamehash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \strng{authornamehash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \strng{authorfullhash}{2c2b0e48dc97b685b8d4ccb853b67efb}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This Highway Code applies to England, Scotland and Wales. The Highway Code is essential reading for everyone.}
+      \field{title}{Using the road (159 to 203) - {The} {Highway} {Code} - {Guidance} - {GOV}.{UK}}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203
+      \endverb
+      \verb{url}
+      \verb https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203
+      \endverb
+      \keyw{agents,autonomous vehicles,AV,formalisation,highway code,uk}
+    \endentry
+    \entry{domenici2017integrated}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=dbf76e84c39679b6cbf3bfaf78189c8e}{%
+           family={Domenici},
+           familyi={D\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b187abb50e058ad45570c4467a73628c}{%
+           family={Fagiolini},
+           familyi={F\bibinitperiod},
+           given={Adriano},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b6591c4e953c28af2f8b1c9876baaa75}{%
+           family={Palmieri},
+           familyi={P\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \strng{fullhash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \strng{bibnamehash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \strng{authorbibnamehash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \strng{authornamehash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \strng{authorfullhash}{5109be2f0c0720ea5ce3cfe167cf37a2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Software Engineering and Formal Methods}
+      \field{title}{Integrated simulation and formal verification of a simple autonomous vehicle}
+      \field{year}{2017}
+      \field{pages}{300\bibrangedash 314}
+      \range{pages}{15}
+    \endentry
+    \entry{goldberg2008bridging}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=696f958130bc7f8659a8c5668cae2d5e}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{696f958130bc7f8659a8c5668cae2d5e}
+      \strng{fullhash}{696f958130bc7f8659a8c5668cae2d5e}
+      \strng{bibnamehash}{696f958130bc7f8659a8c5668cae2d5e}
+      \strng{authorbibnamehash}{696f958130bc7f8659a8c5668cae2d5e}
+      \strng{authornamehash}{696f958130bc7f8659a8c5668cae2d5e}
+      \strng{authorfullhash}{696f958130bc7f8659a8c5668cae2d5e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Workshop on Verification, Model Checking, and Abstract Interpretation}
+      \field{title}{On bridging simulation and formal verification}
+      \field{year}{2008}
+      \field{pages}{127\bibrangedash 141}
+      \range{pages}{15}
+    \endentry
+    \entry{Harper21}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9f859e99551310b04c9b000ab67caa21}{%
+           family={Harper},
+           familyi={H\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e464ccfad93f539e8d83670bfd2ccdaa}{%
+           family={Chance},
+           familyi={C\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5198bb7730a55616e36e3b65e728d3bc}{%
+           family={Ghobrial},
+           familyi={G\bibinitperiod},
+           given={Abanoub},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d1fa099732be5537f3b0e4550550cc49}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Saquib},
+           giveni={S\bibinitperiod}}}%
+        {{hash=efb7b9c6d783bb5c01d7d5b162640cd0}{%
+           family={Pipe},
+           familyi={P\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7c6ad14b250cf6c8ba8e92e4ad94f196}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{90148c5c5000637d6823361f6d8bab88}
+      \strng{fullhash}{90148c5c5000637d6823361f6d8bab88}
+      \strng{bibnamehash}{90148c5c5000637d6823361f6d8bab88}
+      \strng{authorbibnamehash}{90148c5c5000637d6823361f6d8bab88}
+      \strng{authornamehash}{90148c5c5000637d6823361f6d8bab88}
+      \strng{authorfullhash}{90148c5c5000637d6823361f6d8bab88}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{Safety Validation of Autonomous Vehicles using Assertion-based Oracles}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2111.04611
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2111.04611
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2111.04611
+      \endverb
+    \endentry
+    \entry{hoffmann2016autonomous}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2eb19dfd706701c49a9faec171048e41}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8e9674b41b685c8a9a0c2d5264796f2e}{%
+           family={Ireland},
+           familyi={I\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12bfa97b4a863c194097d1af6d4f304e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+        {{hash=72e38f5e745acabaeb10e38ca01f1a52}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Gethin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=65a82998b2245ee8163a7c60137e1faf}{%
+           family={Veres},
+           familyi={V\bibinitperiod},
+           given={Sandor},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \strng{fullhash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \strng{bibnamehash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \strng{authorbibnamehash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \strng{authornamehash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \strng{authorfullhash}{c113a1af5a0585de9bca82aaaaa88fca}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Symposium on Model Checking Software}
+      \field{title}{Autonomous agent behaviour modelled in PRISM--A case study}
+      \field{year}{2016}
+      \field{pages}{104\bibrangedash 110}
+      \range{pages}{7}
+    \endentry
+    \entry{Mos85}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6797b16cb5ec1967c299e59694b64ea}{%
+           family={Moszkowski},
+           familyi={M\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{d6797b16cb5ec1967c299e59694b64ea}
+      \strng{fullhash}{d6797b16cb5ec1967c299e59694b64ea}
+      \strng{bibnamehash}{d6797b16cb5ec1967c299e59694b64ea}
+      \strng{authorbibnamehash}{d6797b16cb5ec1967c299e59694b64ea}
+      \strng{authornamehash}{d6797b16cb5ec1967c299e59694b64ea}
+      \strng{authorfullhash}{d6797b16cb5ec1967c299e59694b64ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9162}
+      \field{journaltitle}{Computer}
+      \field{number}{2}
+      \field{title}{A Temporal Logic for Multilevel Reasoning About Hardware}
+      \field{volume}{18}
+      \field{year}{1985}
+      \field{pages}{10\bibrangedash 19}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MC.1985.1662795
+      \endverb
+    \endentry
+    \entry{popper1997logic}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cc598e8e33bbe50dcbcbba1ad62d756b}{%
+           family={Popper},
+           familyi={P\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{fullhash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{bibnamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authorbibnamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authornamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authorfullhash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The logic of scientific discovery}
+      \field{year}{1997}
+    \endentry
+    \entry{Sch18-TCS}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae8119375962803af59a8a411eedd8f6}{%
+           family={Schwammberger},
+           familyi={S\bibinitperiod},
+           given={Maike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae8119375962803af59a8a411eedd8f6}
+      \strng{fullhash}{ae8119375962803af59a8a411eedd8f6}
+      \strng{bibnamehash}{ae8119375962803af59a8a411eedd8f6}
+      \strng{authorbibnamehash}{ae8119375962803af59a8a411eedd8f6}
+      \strng{authornamehash}{ae8119375962803af59a8a411eedd8f6}
+      \strng{authorfullhash}{ae8119375962803af59a8a411eedd8f6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theoretical Computer Science}
+      \field{title}{An abstract model for proving safety of autonomous urban traffic}
+      \field{volume}{744}
+      \field{year}{2018}
+      \field{pages}{143\bibrangedash 169}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1016/j.tcs.2018.05.028
+      \endverb
+    \endentry
+    \entry{schwammbergerextending2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ae8119375962803af59a8a411eedd8f6}{%
+           family={Schwammberger},
+           familyi={S\bibinitperiod},
+           given={Maike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a008c8fffc49b4ad83c51ad2166d7782}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Gleifer\bibnamedelima Vaz},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{df1322518e42775f9142da01b891c37a}
+      \strng{fullhash}{df1322518e42775f9142da01b891c37a}
+      \strng{bibnamehash}{df1322518e42775f9142da01b891c37a}
+      \strng{authorbibnamehash}{df1322518e42775f9142da01b891c37a}
+      \strng{authornamehash}{df1322518e42775f9142da01b891c37a}
+      \strng{authorfullhash}{df1322518e42775f9142da01b891c37a}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During the design of autonomous vehicles (AVs), several stages should include a verification process to guarantee that the AV is driving safely on the roads. One of these stages is to assure the AVs abide by the road traffic rules. To include road traffic rules in the design of an AV, a precise and unambiguous formalisation of these rules is needed. However, only recently this has been pointed out as an issue for the design of AVs and the few works on this only capture the temporal aspects of the rules, leaving behind the spatial aspects. Here, we extend the spatial traffic logic, Urban Multi-lane Spatial Logic, to formalise a subset of the UK road junction rules, where both temporal and spatial aspects of the rules are captured. Our approach has an abstraction level for urban road junctions that could easily promote the formalisation of the whole set of road junction rules and we exemplarily formalise three of the UK road junction rules. Once we have the whole set formalised, we will model, implement, and formally verify the behaviour of an AV against road traffic rules so that guidelines for the creation of a Digital Highway Code for AVs can be established.}
+      \field{issn}{2075-2180}
+      \field{journaltitle}{Electronic Proceedings in Theoretical Computer Science}
+      \field{month}{10}
+      \field{note}{arXiv: 2110.12583}
+      \field{title}{Extending {Urban} {Multi}-{Lane} {Spatial} {Logic} to {Formalise} {Road} {Junction} {Rules}}
+      \field{urlday}{7}
+      \field{urlmonth}{11}
+      \field{urlyear}{2021}
+      \field{volume}{348}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 19}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.4204/EPTCS.348.1
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2110.12583
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2110.12583
+      \endverb
+      \keyw{Computer Science - Logic in Computer Science}
+    \endentry
+    \entry{corroborative-approach}{article}{}
+      \name{author}{7}{}{%
+        {{hash=1456e57951fcaa5d3a4c564f6c78b325}{%
+           family={Webster},
+           familyi={W\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1dfb23c52bfcd749ab0f910ad106a0ab}{%
+           family={Western},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8ef2dde927f863e1488b85e18eebbc01}{%
+           family={Araiza-Illan},
+           familyi={A\bibinithyphendelim I\bibinitperiod},
+           given={Dejanira},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ab72a45dc5f8df51d7b8161916c32edf}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Clare},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c6ad14b250cf6c8ba8e92e4ad94f196}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a32032773e127643a14d731385f97664}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c7e3d677dad484b58f58e4c4af4586fc}{%
+           family={Pipe},
+           familyi={P\bibinitperiod},
+           given={Anthony\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{10c1670e0907851fa67b12c3ee3d62f0}
+      \strng{fullhash}{f9f1549ce76f8a60414cbc35b79df019}
+      \strng{bibnamehash}{10c1670e0907851fa67b12c3ee3d62f0}
+      \strng{authorbibnamehash}{10c1670e0907851fa67b12c3ee3d62f0}
+      \strng{authornamehash}{10c1670e0907851fa67b12c3ee3d62f0}
+      \strng{authorfullhash}{f9f1549ce76f8a60414cbc35b79df019}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Robotics Res.}
+      \field{number}{1}
+      \field{title}{A corroborative approach to verification and validation of human-robot teams}
+      \field{volume}{39}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1177/0278364919883338
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
